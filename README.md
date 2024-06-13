@@ -1,2 +1,0 @@
-# TelecomChurnStudyAngad
-Telecom Churn Study
